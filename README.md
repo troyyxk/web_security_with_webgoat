@@ -24,6 +24,11 @@ https://github.com/WebGoat/WebGoat
 ```
 这个是webgoat的源代码，我强烈建议大家点进去阅读他们的README，并通过他们提供的方法下载并使用webgoat这一软件
 
+## 参考答案
+```
+https://docs.cycubix.com/web-application-security-essentials/solutions/a1-injection/
+```
+
 <!-- ## 其他
 本人目前是一名在校大学生，正在寻找实习机会，如果大家有相关的内推的话，请考虑一下本人，如果愿意给一个内推机会的话，本人感激不尽。
 * 简历: []
