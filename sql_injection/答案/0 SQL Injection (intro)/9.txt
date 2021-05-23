@@ -1,0 +1,1 @@
+SELECT * FROM user_data WHERE first_name = 'John' AND last_name = '' or '1'='1'

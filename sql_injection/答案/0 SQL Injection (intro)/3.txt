@@ -1,0 +1,1 @@
+UPDATE employees SET department='Sales' WHERE first_name='Tobi' AND last_name='Barnett'
